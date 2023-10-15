@@ -8,3 +8,4 @@ This is a collection of my **solutions** to various coding challenges and algori
 | 88 | Merge Sorted Array | Python, Java | Easy |
 | 27 | Remove Element | Python, Java | Easy |
 | 26 | Remove Duplicates from Sorted Array | Python, Java | Easy |
+| 80 | Remove Duplicates from Sorted Array II | Python, Java | Medium |
