@@ -5,7 +5,7 @@ This is a collection of my **solutions** to various coding challenges and algori
 
 | #  | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
-| 88 | Merge Sorted Array | Python, Java | Easy |
+| 88 | Merge Sorted Array | [Python](https://github.com/GiannisTsevrenis/Coding-Challenges/blob/main/LeetCode/Array-String/88.%20Merge%20Sorted%20Array.py), Java | Easy |
 | 27 | Remove Element | Python, Java | Easy |
 | 26 | Remove Duplicates from Sorted Array | Python, Java | Easy |
 | 80 | Remove Duplicates from Sorted Array II | Python, Java | Medium |
