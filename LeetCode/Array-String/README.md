@@ -5,8 +5,8 @@ This is a collection of my **solutions** to various coding challenges and algori
 
 | #  | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
-| 88 | Merge Sorted Array | ./LeetCode/Array-String/88.%20Merge%20Sorted%20Array.py, ./LeetCode/Array-String/88.%20Merge%20Sorted%20Array.java | Easy |
-| 27 | Remove Element | Python, Java | Easy |
-| 26 | Remove Duplicates from Sorted Array | Python, Java | Easy |
-| 80 | Remove Duplicates from Sorted Array II | Python, Java | Medium |
-| 169 | Majority Element | Python, Java | Easy |
+| [Java](LeetCode/Array-String/169. Majority Element.java) | ./LeetCode/Array-String/88.%20Merge%20Sorted%20Array.py, ./LeetCode/Array-String/88.%20Merge%20Sorted%20Array.java | Easy |
+| [Python](LeetCode/Array-String/169. Majority Element.py) | Python, Java | Easy |
+| [Java](LeetCode/Array-String/189. Rotate Array.java) | Python, Java | Easy |
+| [Python](LeetCode/Array-String/189. Rotate Array.py) | Python, Java | Medium |
+| [Java](LeetCode/Array-String/26. Remove Duplicates from Sorted Array.java) | Python, Java | Easy |
