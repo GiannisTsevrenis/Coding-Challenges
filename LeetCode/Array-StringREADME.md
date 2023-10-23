@@ -2,17 +2,11 @@
 This is a collection of my **solutions** to various coding challenges and algorithmic problems.
 
 ## LeetCode
-| #  | Title | Solution | Difficulty |
-| :-: | :-: | :-: | :-: |
-| 169 | Problem Title | [169. Majority Element.java](./LeetCode/Array-String/169. Majority Element.java) | Difficulty |
-| 169 | Problem Title | [169. Majority Element.py](./LeetCode/Array-String169. Majority Element.py) | Difficulty |
-| 189 | Problem Title | [189. Rotate Array.java](./LeetCode/Array-String189. Rotate Array.java) | Difficulty |
-| 189 | Problem Title | [189. Rotate Array.py](./LeetCode/Array-String189. Rotate Array.py) | Difficulty |
-| 26 | Problem Title | [26. Remove Duplicates from Sorted Array.java](./LeetCode/Array-String26. Remove Duplicates from Sorted Array.java) | Difficulty |
-| 26 | Problem Title | [26. Remove Duplicates from Sorted Array.py](./LeetCode/Array-String26. Remove Duplicates from Sorted Array.py) | Difficulty |
-| 27 | Problem Title | [27. Remove Element.java](./LeetCode/Array-String27. Remove Element.java) | Difficulty |
-| 27 | Problem Title | [27. Remove Element.py](./LeetCode/Array-String27. Remove Element.py) | Difficulty |
-| 80 | Problem Title | [80. Remove Duplicates from Sorted Array II.java](./LeetCode/Array-String80. Remove Duplicates from Sorted Array II.java) | Difficulty |
-| 80 | Problem Title | [80. Remove Duplicates from Sorted Array II.py](./LeetCode/Array-String80. Remove Duplicates from Sorted Array II.py) | Difficulty |
-| 88 | Problem Title | [88. Merge Sorted Array.java](./LeetCode/Array-String88. Merge Sorted Array.java) | Difficulty |
-| 88 | Problem Title | [88. Merge Sorted Array.py](./LeetCode/Array-String88. Merge Sorted Array.py) | Difficulty |
+| #  | Title | Solution |
+| :-: | :-: | :-: |
+| 169 | Majority Element | [Python](./LeetCode/Array-String/169.%20Majority%20Element.py),[Java](./LeetCode/Array-String/169.%20Majority%20Element.java) |
+| 189 | Rotate Array | [Python](./LeetCode/Array-String/189.%20Rotate%20Array.py),[Java](./LeetCode/Array-String/189.%20Rotate%20Array.java) |
+| 26 | Remove Duplicates from Sorted Array | [Python](./LeetCode/Array-String/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py),[Java](./LeetCode/Array-String/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java) |
+| 27 | Remove Element | [Python](./LeetCode/Array-String/27.%20Remove%20Element.py),[Java](./LeetCode/Array-String/27.%20Remove%20Element.java) |
+| 80 | Remove Duplicates from Sorted Array II | [Python](./LeetCode/Array-String/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py),[Java](./LeetCode/Array-String/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java) |
+| 88 | Merge Sorted Array | [Python](./LeetCode/Array-String/88.%20Merge%20Sorted%20Array.py),[Java](./LeetCode/Array-String/88.%20Merge%20Sorted%20Array.java) |
