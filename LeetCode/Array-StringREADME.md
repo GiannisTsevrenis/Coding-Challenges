@@ -4,7 +4,7 @@ This is a collection of my **solutions** to various coding challenges and algori
 ## LeetCode
 | #  | Title | Solution | Difficulty |
 | :-: | :-: | :-: | :-: |
-| 169 | Problem Title | [169. Majority Element.java](./LeetCode/Array-String169. Majority Element.java) | Difficulty |
+| 169 | Problem Title | [169. Majority Element.java](./LeetCode/Array-String/169. Majority Element.java) | Difficulty |
 | 169 | Problem Title | [169. Majority Element.py](./LeetCode/Array-String169. Majority Element.py) | Difficulty |
 | 189 | Problem Title | [189. Rotate Array.java](./LeetCode/Array-String189. Rotate Array.java) | Difficulty |
 | 189 | Problem Title | [189. Rotate Array.py](./LeetCode/Array-String189. Rotate Array.py) | Difficulty |
