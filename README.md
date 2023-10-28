@@ -1,5 +1,5 @@
 # **Coding-Challenges**
-This is a collection of algorithms to keep track of my **solutions** to various coding/algorithmic problems.
+This is a collection of algorithms to keep track of my **solutions** to various coding/algorithmic problems for future reference.
 
 ## LeetCode
 | #  | Title | Solution |
