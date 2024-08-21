@@ -5,9 +5,10 @@ import java.util.Set;
 
 public class IsomorphicStrings {
     public static void main(String[] args) {
-        System.out.println(new IsomorphicStrings().isIsomorphic("badc", "baba"));
-        System.out.println(new IsomorphicStrings().isIsomorphic("egcd", "adfd"));
-        System.out.println(new IsomorphicStrings().isIsomorphic("qwertyuiop[]asdfghjkl;'\\zxcvbnm,./", "',.pyfgcrl/=aoeuidhtns-\\;qjkxbmwvz"));
+        IsomorphicStrings isoStr = new IsomorphicStrings();
+        System.out.println(isoStr.isIsomorphic("badc", "baba"));
+        System.out.println(isoStr.isIsomorphic("egcd", "adfd"));
+        System.out.println(isoStr.isIsomorphic("qwertyuiop[]asdfghjkl;'\\zxcvbnm,./", "',.pyfgcrl/=aoeuidhtns-\\;qjkxbmwvz"));
     }
 
     public boolean isIsomorphic(String s, String t) {
