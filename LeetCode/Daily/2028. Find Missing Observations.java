@@ -1,29 +1,22 @@
 class Solution {
     public int[] missingRolls(int[] rolls, int mean, int n) {
         int sum = 0;
-        int totalLength = rolls.length + n;
         for (int roll : rolls) {
             sum += roll;
         }
-        if ((n * 6) < (mean * totalLength - sum)) {
-            return new int[0];
-        }
-        if (n > (mean * totalLength - sum)) {
+        int missingSum = mean * (rolls.length + n) - sum;
+        if (n * 6 < missingSum || n > missingSum) {
             return new int[0];
         }
         int[] ans = new int[n];
-        int checkInt = (mean * totalLength - sum) / n;
-        double checkDouble = (double) (mean * totalLength - sum) / n;
-        if (checkInt == checkDouble) {
-            Arrays.fill(ans,0, n, checkInt);
+        int number = missingSum/ n;
+        int remainder = missingSum % n;
+        if (remainder == 0) {
+            Arrays.fill(ans,0, n, number);
         }else {
-            long integerPart = (long) checkDouble;
-            double floatingPointPart = checkDouble - integerPart;
-            int high = (int) Math.round(floatingPointPart * n);
-            Arrays.fill(ans, 0, n-high, checkInt);
-            Arrays.fill(ans, n-high, n, checkInt+1);
+            Arrays.fill(ans, 0, n-remainder, number);
+            Arrays.fill(ans, n-remainder, n, number+1);
         }
         return ans;
     }
-
 }
